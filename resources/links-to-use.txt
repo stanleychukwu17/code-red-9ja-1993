@@ -3,16 +3,26 @@ to use {
   types of election: https://inecelectionresults.ng/elections/types
 }
 
+polling units details {
+  https://github.com/Emeka-Onwuepe/Polling_Units_in_Nigeria
+  https://github.com/ulaitorcodes/nigerian-states-lgas-and-polling-units
+}
+
 registed voters per polling unit {
   inec report on the 2023 election {
     https://inecnigeria.org/wp-content/uploads/2024/02/2023-GENERAL-ELECTION-REPORT-1.pdf
     - inside this pdf, inec gave their assesment on the state of elections in nigeria for the year 2023
     - you'll find for each state and the total number of registed voters in that state
   }
+  nigeria: https://www.inecnigeria.org/wp-content/uploads/2023/02/PVCs-Collected-Registered-Voters.pdf
   ogun: {
     https://inecnigeria.org/wp-content/uploads/2024/11/PU-LEVEL-FOR-PVC-COLLECTED-FOR-2024-ONDO-GOVERVORSHIP-ELECTION.pdf
     use the ogun template to retrieve that of other states
   }
+  -
+  Bayelsa: https://inecnigeria.org/wp-content/uploads/2023/10/Bayelsa-2023-Governorship-PU-PVC-Collection-Figures.pdf
+  Imo: https://wp1.inecnigeria.org/wp-content/uploads/2023/10/Imo-2023-Governorship-PU-PVC-Collection-Figures.pdf
+  Kogi: https://inecnigeria.org/wp-content/uploads/2023/10/KOGI-2023-Govermorship-PU-PVC-Collection-Figures.pdf
 }
 
 useful {
