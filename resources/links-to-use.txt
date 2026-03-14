@@ -6,7 +6,8 @@ to use {
 registed voters per polling unit {
   inec report on the 2023 election {
     https://inecnigeria.org/wp-content/uploads/2024/02/2023-GENERAL-ELECTION-REPORT-1.pdf
-    inside this pdf 
+    - inside this pdf, inec gave their assesment on the state of elections in nigeria for the year 2023
+    - you'll find for each state and the total number of registed voters in that state
   }
   ogun: {
     https://inecnigeria.org/wp-content/uploads/2024/11/PU-LEVEL-FOR-PVC-COLLECTED-FOR-2024-ONDO-GOVERVORSHIP-ELECTION.pdf
@@ -38,4 +39,11 @@ talking to atiku {
 for the news section {
   https://naltf.gov.ng/category/news/
   https://naltf.gov.ng/about-us/
+}
+
+
+
+after the election {
+  - any voters card that is not active after 8 years, that is does not particpate in voting during 2 presidential cycles should be disabled,
+    if the user want to re-activate the card, they can visit the inec office 
 }
