@@ -1,0 +1,41 @@
+to use {
+  get all polling unites from inec website: https://www.inecnigeria.org/polling-units/
+  types of election: https://inecelectionresults.ng/elections/types
+}
+
+registed voters per polling unit {
+  inec report on the 2023 election {
+    https://inecnigeria.org/wp-content/uploads/2024/02/2023-GENERAL-ELECTION-REPORT-1.pdf
+    inside this pdf 
+  }
+  ogun: {
+    https://inecnigeria.org/wp-content/uploads/2024/11/PU-LEVEL-FOR-PVC-COLLECTED-FOR-2024-ONDO-GOVERVORSHIP-ELECTION.pdf
+    use the ogun template to retrieve that of other states
+  }
+}
+
+useful {
+  elections results on inec: https://www.inecnigeria.org/election-results/
+  list of candidates for 2023 elections: https://www.inecnigeria.org/list-of-candidates-for-2023-election/
+}
+
+irev portal {
+  presidential: https://inecelectionresults.ng/elections/63f8f25b594e164f8146a213
+}
+
+
+edonkast.com {
+  https://www.edonkast.com/
+  https://app.edonkast.com/
+  https://app.edonkast.com/results
+}
+
+talking to atiku {
+  https://punchng.com/n395m-for-e-transmission-out-of-inecs-n873bn-budget/
+  https://naltf.gov.ng/inec-proposes-n873-78bn-for-2027-elections/
+}
+
+for the news section {
+  https://naltf.gov.ng/category/news/
+  https://naltf.gov.ng/about-us/
+}
