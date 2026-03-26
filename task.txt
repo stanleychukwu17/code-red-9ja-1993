@@ -1,0 +1,9 @@
+frontend {
+  - check the github repo to be sure if there are branch rules
+  - check the site for the color theme working and leave it there
+  - remove everything not needed for the web app
+}
+
+backend {}
+
+infra {}

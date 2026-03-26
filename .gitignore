@@ -1,0 +1,31 @@
+﻿# Node
+node_modules/
+
+# Turbo
+.turbo/
+
+# Env
+.env
+.env.*
+
+# Build output
+dist/
+build/
+.next/
+bin/
+
+# Logs
+*.log
+
+# Go
+*.exe
+*.test
+*.out
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
